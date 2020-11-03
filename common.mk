@@ -527,3 +527,6 @@ PRODUCT_PACKAGES += \
 
 PRODUCT_BOOT_JARS += \
     WfdCommon
+
+# GApps
+TARGET_BUILD_GAPPS := true
